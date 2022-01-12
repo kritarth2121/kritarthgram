@@ -21,7 +21,7 @@ mccabe==0.6.1
 mysql-connector-python==8.0.19
 mysqlclient==1.4.6
 pathspec==0.5.9
-pipenv==2018.11.26
+pipenv==2022.1.8
 pylint==2.4.4
 pypiwin32==223
 python-dateutil==2.8.0
